@@ -1,6 +1,6 @@
 # Dependencies
-#markdown:         redcarpet
-#highlighter:      pygments
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:            Steven Fons
-tagline:          'Personal website.'
+tagline:          'Personal website'
 description:      'remote sensing scientist. sea ice researcher.'
 baseurl:          /
 
