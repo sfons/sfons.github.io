@@ -11,7 +11,7 @@ title:            Steven Fons
 tagline:          'Personal website'
 description:      'remote sensing scientist. sea ice researcher.'
 url:              http://sfons.github.io
-baseurl:          /
+
 
 author:
   name:           'Mark Otto'
