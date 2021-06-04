@@ -4,11 +4,11 @@
 
     <div class="sidebar-about">
       <h1>
-        <img src="{{ site.baseurl }}public/steven.jpg" alt="hi" class="inline"/>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
+      <img src='{{"/public/steven.jpg" | absolute_url}}'> <!-- **Tag Insertion, like this**-->
       <p class="lead">{{ site.description }}</p>
     </div>
 
